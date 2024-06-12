@@ -60,6 +60,7 @@ generate_video_from_data(
 ## Screenshots
 
 ![GUI Screenshot](screenshots/gui.png)
+![Graph Example](screenshots/graph.gif)
 
 ## Contributing
 
