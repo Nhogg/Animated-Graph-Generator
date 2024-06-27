@@ -1,6 +1,6 @@
 # 📊 Animated Chart Video Generator
 
-Create stunning animated chart videos from your data files with ease! 🎥✨
+Create aninmated graphs and charts from Excel files and CSVs! 
 
 ## Features
 
